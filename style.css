@@ -1,0 +1,141 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    outline: none; border:none;
+    text-decoration: none;
+    font-family:'Poppins', sans-serif;
+
+}
+header{
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  background-size: cover;
+  background-image: url(image/apartment-architecture-carpet-276583.png);
+}
+.navbar-centre{
+ 
+}
+
+.heading{
+    font-size: 64px;
+    margin-top: -29%;
+    margin-right: 390px;
+    text-align: center;
+    color: #ffff;
+}
+.head{
+    font-size: 64px;
+    margin-top: -2%;
+    margin-right: 550px;
+    text-align: center;
+    color: #ffff;
+
+}
+.recat{
+    width: 1145px;
+    height:90px;
+    background-color: #ffff;
+    margin-top: 171px; 
+    border-radius: 0px 70px 0px 0px;
+    opacity: 1;
+
+}
+.box-1{
+    width: 39px;
+    height: 39px;
+    background-color: #E1ECFF;
+    border-radius: 10px;
+    margin-left: 278px;
+    position: absolute;
+    margin-top: -70px;
+
+    
+
+    
+}
+.fa-truck{
+    margin: 10px;
+    color: #1A6EFF;
+}
+.rectangle-buttom{
+    font-size: 14px;
+    text-transform: capitalize;
+    padding: 50px;
+    margin:5px;
+    width: 300px;
+
+    margin-top: -85px;
+   
+}
+.rectangle-buttom1{
+    font-size: 12px;
+    text-align: left;
+    color: #A8A8A8;
+    margin: 5px;
+    padding: 50px;
+    margin-top: -100px;
+    width: 250px;
+    height: 17px;
+    
+
+}
+.box-2{
+    width: 39px;
+    height: 39px;
+    background-color: #E1ECFF;
+    border-radius: 10px;
+    margin-left: 500px;
+    position: absolute;
+    margin-top: -70px;
+}
+.fa-face-smile{
+    margin: 10px;
+    color: #1A6EFF;
+}
+.cricle{
+    width: 40px;
+    height: 40px;
+    background-color: #1A6EFF;
+    border-radius: 50%;
+   margin-left: 315px;
+}
+
+.fa-arrow-right{
+    width: 15px;
+    height: 13px;
+    color: #ffff;
+    margin: 10px;
+    padding: 2px;
+}
+.Shop-now{
+    font-size: 13px;
+    color: white;
+    width: 200px;
+    margin: 30px;
+    margin-top: -20px;
+    margin-left: 50px;
+    cursor:pointer
+}
+
+.box-3{
+    width: 39px;
+    height: 39px;
+    background-color: #E1ECFF;
+    border-radius: 10px;
+    margin-left: 735px;
+    position: absolute;
+    margin-top: -70px;
+}
+.rectangle-image{
+    
+    margin: 10px;
+}
+.rectangle-2{
+    width: 72px;
+    height: 72px;
+    background-color: #ffff;
+    
+}
